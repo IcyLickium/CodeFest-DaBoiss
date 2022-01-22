@@ -98,7 +98,7 @@ else:
   print("Please take the required amount of doses for your age, and follow corona protocols at all times.")
   symptoms()
 
-  #what happens in the audit?
+
 
 
 
